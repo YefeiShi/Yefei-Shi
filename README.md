@@ -61,7 +61,7 @@
 #
 #
 #
-## During the class, we mentioned open source and carried out cooperative house painting.  Open source is an important feature of Metaverse, so I here is a briefly introduction of Metaverse.
+## During the class, we mentioned open source and carried out cooperative house painting.  Open source is an important feature of Metaverse, so here is a briefly introduction of Metaverse.
 #
 #
 #
